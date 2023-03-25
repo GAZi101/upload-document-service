@@ -1,0 +1,14 @@
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/UploadDocumentApplication.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/mapper/UploadDocumentMapper.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/adapter/APIAdapter.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/entity/BaseEntity.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/dto/response/UploadDocumentResponse.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/repository/MasterDocumentUploadRepository.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/utils/DocumentTypeEnum.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/entity/MasterDocumentUploadEntity.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/dto/request/BaseRequest.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/controller/UploadDocumentController.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/dto/response/BaseResponse.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/dto/request/UploadDocumentRequest.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/service/impl/UploadDocumentServiceImpl.java
+/Users/gemaardyz/Downloads/45246t35t/upload-document/src/main/java/id/co/gemardy/uploaddocument/service/UploadDocumentService.java
