@@ -1,5 +1,5 @@
 COMMIT_ID_HASH ?= $(shell git rev-parse HEAD)
-VERSION_BRANCH ?= v1
+VERSION_BRANCH ?= $(shell git symbolic-ref --short HEAD)
 APP     ?= upload-document-service
 IMAGE   ?= $(APP):$(COMMIT_ID_HASH)
 VERSION ?= $(VERSION_BRANCH)-$(COMMIT_ID_HASH)
