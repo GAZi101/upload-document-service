@@ -2,7 +2,7 @@ package id.co.gemardy.uploaddocument.mapper;
 
 
 import java.io.UnsupportedEncodingException;
-import java.util.Base64;
+import org.apache.tomcat.util.codec.binary.Base64;
 
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
@@ -22,6 +22,6 @@ public interface UploadDocumentMapper {
 
     default byte[] convertBase64ToByteArray (String base64String) throws UnsupportedEncodingException{
 
-        return Base64.getMimeDecoder().decode(base64String.getBytes("UTF-8"));
+        return Base64.decodeBase64(base64String);
     }
 }
