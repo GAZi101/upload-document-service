@@ -6,7 +6,8 @@ WORKDIR /build-apps
 
 COPY . /build-apps/
 
-RUN mvn verify -Dmaven.test.skip -q
+RUN echo $(ls /build-apps/)
+
 RUN mvn clean install -Dmaven.test.skip -q
 RUN ls -ltr
 
